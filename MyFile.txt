@@ -1,2 +1,3 @@
 Before First Commit
 Before Second Commit
+Before Third Commit
